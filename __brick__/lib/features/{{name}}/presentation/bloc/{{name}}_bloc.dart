@@ -1,4 +1,4 @@
-
+import 'package:flutter_bloc/flutter_bloc.dart';
 part '{{name}}_event.dart';
 part '{{name}}_state.dart';
 
