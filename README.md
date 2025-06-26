@@ -51,7 +51,10 @@ bricks:
 Generate a new feature module with:
 ```
 mason make clean_arch --name login
-
+```
+or if you want to make it into **specific** folder just need to run
+```
+mason make clean_arch --name login -o lib/features/auth/pages
 ```
 
 
